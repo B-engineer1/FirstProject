@@ -8,5 +8,6 @@ public class FirstJavaProgram {
 		System.out.println(10+20);
 
 	}
-
+ 
 }
+     

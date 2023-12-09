@@ -13,13 +13,13 @@ public class ArrayListDemo {
 
 	public static void main(String[] args) {
 		
-		//declaration
-				ArrayList mylist=new ArrayList();
-				//ArrayList <String>mylist=new ArrayList<String>();  // only strings
-				//List mylist=new ArrayList();
+		//declaration diffrent types 
+				ArrayList mylist=new ArrayList(); // we prefer 
+				//ArrayList <String>mylist1=new ArrayList<String>();  // only strings
+			   //List mylist2=new ArrayList();
 
 				
-				//adding data elements into arraylist
+				//adding data elements into arraylist, different types of data
 				mylist.add(100);
 				mylist.add(10.5);
 				mylist.add("welcome");

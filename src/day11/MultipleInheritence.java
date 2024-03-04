@@ -31,7 +31,7 @@ public class MultipleInheritence {
 		
 		XYZ xyzobj=new XYZ();
 		
-		xyzobj	
+		
 
 	}
 
